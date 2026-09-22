@@ -1,5 +1,5 @@
 ---
-name: ops:home-agent
+name: ops-home-agent.md
 description: "OPS specialist: Homey Pro probe agent"
 effort: low
 maxTurns: 10
