@@ -1,5 +1,5 @@
 ---
-name: ops:unifi-agent
+name: ops-unifi-agent.md
 description: "OPS specialist: UniFi probe agent"
 effort: low
 maxTurns: 10
